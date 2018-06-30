@@ -3,7 +3,7 @@
  *
  * testplugin jQuery Plugin
  * Author: @rwoloszyn
- * Project home: http://jedfoster.github.io/Readmore.js
+ * Project home: https://github.com/rwoloszyn/example-jquery-plugin
  * Licensed under the MIT license
  *
  * Debounce function from http://davidwalsh.name/javascript-debounce-function
