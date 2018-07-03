@@ -1,3 +1,6 @@
+# 1.0.2
+- .travis.yml CI configurtioin
+
 # 1.0.1
 - add 'jest' test framework and simple jquery test
 
